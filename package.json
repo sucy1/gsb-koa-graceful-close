@@ -42,7 +42,7 @@
     "cookies": "~0.9.1",
     "delegates": "^1.0.0",
     "destroy": "^1.2.0",
-    "encodeurl": "^2.0.0",
+    "encodeurl": "^3.0.0",
     "escape-html": "^1.0.3",
     "fresh": "~0.5.2",
     "http-assert": "^1.5.0",
